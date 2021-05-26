@@ -1,0 +1,4 @@
+packaging==20.9
+pyparsing==2.4.7
+toml==0.10.2
+-e git+https://github.com/opencinemac/occlib-rs@c38187024181fa8e0e29746bda8c0e6c3b80855f#egg=UNKNOWN
